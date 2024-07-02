@@ -20,7 +20,6 @@ Skills:  REACT / JS / HTML / CSS/ Tailwind CSS/Firebase/Node.js/ Express.js/Mong
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TUTULROY&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/TUTULROY)  
-
+  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=TUTULROY)  
 
